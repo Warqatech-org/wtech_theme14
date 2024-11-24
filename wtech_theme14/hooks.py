@@ -5,6 +5,16 @@ app_description = "Warqatech theme for erpnext"
 app_email = "info@warqatech.com"
 app_license = "MIT"
 
+brand_html = "WtechERP"
+
+website_context = {
+    "favicon": "/assets/wtech_theme14/img/favicon.png",
+    "splash_image": "/assets/wtech_theme14/img/favicon.png",
+}
+
+app_include_css = "/assets/wtech_theme14/css/wtech_theme.css"
+app_include_js = "/assets/wtech_theme14/js/wtech_theme.js"
+
 # Includes in <head>
 # ------------------
 
